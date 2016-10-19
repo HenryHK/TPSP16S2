@@ -1,0 +1,16 @@
+------ request ID 1122211; Canyon Blaster; 1-1-2006 ------
+Request denied: Canyon Blaster 01/01/2006
+Reasons: age requirement not met
+         height information missing
+---------------------------------------------------------
+
+------ request ID 1122211; Spiderman Escape; 3-1-2006 ------
+Request denied: Spiderman Escape 03/01/2006
+Reasons: age requirement not met
+         height requirement not met
+-----------------------------------------------------------
+
+------ request ID 0022200; Carousel; 3-2-2010 ------
+Request denied: Carousel 03/02/2010
+Reasons: height requirement not met
+---------------------------------------------------

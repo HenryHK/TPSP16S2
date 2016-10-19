@@ -1,0 +1,18 @@
+add ID 00121; name Linda Evans; birthday 1-1-2013; address 1 Grace Street, Lane Cove, NSW, 2066 
+add ID 1122211; address 1 Grace Street, Lane Cove, NSW, 2a66; height 160cm    
+
+
+add ID 00122; name William12 Hill; birthday 1-1-2013
+add ID 001aa; name William Hill; birthday 1-1-2013
+add ID 10123; name William Hill; birthday 30-2-2013    
+
+
+add ID 00111; name Tom Swift; birthday 1-1-2013; height 179m; address 12 Campus Street, Darlington, NSW, 2008; 4D Theatre 20-07-2015 aa-06-2016 
+
+
+add ID 130113; name Thomas Swan; birthday 1/11/1947
+
+delete ID 130113
+
+
+add ID 13110; name Lily Jackson; height 170cm

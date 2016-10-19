@@ -1,0 +1,80 @@
+-----query name Linda Evans-----
+ID 100001
+Visited attractions:
+4D Theatre 02/12/2015 01/12/2015
+ID 100005
+Visited attractions:
+ID 100010
+Visited attractions:
+4D Theatre 02/12/2015
+Carousel 01/12/2015
+ID 100011
+Visited attractions:
+Carousel 01/12/2015
+Ice Age Adventure 02/12/2015
+ID 100013
+Visited attractions:
+Ice Age Adventure 02/12/2015
+Spiderman Escape 01/12/2015
+ID 100020
+Visited attractions:
+4D Theatre 19-7-2010 12/4/2014
+--------------------------------------------------------------------
+
+-----query 01/12/15; 03/12/15; ID 1122211-----
+Total visits: 5
+Most-visited: Canyon Blaster 2 Spiderman Escape 2 
+2nd-most-visited: 4D Theatre 1
+--------------------------------------------------------------------
+
+----query 01/12/15; 03/12/15; age----
+Population size: 5
+Age Profile
+Below 8: 40%
+Over 8 and below 18: 0%
+Over 18 and below 65: 40%
+Over 65: 20%
+--------------------------------------------------------------------
+
+-----query name Linda Evans-----
+ID 100001
+Visited attractions:
+4D Theatre 02/12/2015 01/12/2015
+ID 100005
+Visited attractions:
+4D Theatre 20/01/2016 20/01/2016 20/01/2016
+ID 100010
+Visited attractions:
+4D Theatre 02/12/2015
+Carousel 01/12/2015
+ID 100011
+Visited attractions:
+Carousel 01/12/2015
+Ice Age Adventure 02/12/2015
+ID 100013
+Visited attractions:
+Ice Age Adventure 02/12/2015
+Spiderman Escape 01/12/2015
+ID 100020
+Visited attractions:
+4D Theatre 19-7-2010 12/4/2014
+--------------------------------------------------------------------
+
+-----query 01/12/15; 03/12/15; ID 1122211-----
+Total visits: 9
+Most-visited: Canyon Blaster 4 
+2nd-most-visited: Spiderman Escape 3
+--------------------------------------------------------------------
+
+----query 01/12/15; 03/12/15; age----
+Population size: 5
+Age Profile
+Below 8: 40%
+Over 8 and below 18: 0%
+Over 18 and below 65: 40%
+Over 65: 20%
+--------------------------------------------------------------------
+
+-----query name William Shakes-----
+--------------------------------------------------------------------
+

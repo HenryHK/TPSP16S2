@@ -1,0 +1,13 @@
+ID 1122211
+name David Bloggs
+birthday 1-6-2003
+height 80cm
+
+ID 0022200
+name Tom Levis
+birthday 1-2-1980
+height 210cm
+Carousel 03/01/2007
+Ice Age Adventure 03/01/2007
+Spiderman Escape 03/05/2012
+

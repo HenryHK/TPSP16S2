@@ -1,0 +1,20 @@
+---request ID 1122211; 4D Theatre; 31/03/2006---
+Request Denied: 4D Theatre 31/03/2006
+Reasons: height requirement not met
+--------------------------------------------------------------------
+
+---request ID 1122211; Canyon Blaster; 01/01/2006---
+Request Denied: Canyon Blaster 01/01/2006
+Reasons: height requirement not met
+--------------------------------------------------------------------
+
+---request ID 1122211; Spiderman Escape; 03/01/2006---
+Request Denied: Spiderman Escape 03/01/2006
+Reasons: height requirement not met
+--------------------------------------------------------------------
+
+---request ID 0022200; Carousel; 03/02/2010---
+Request Denied: Carousel 03/02/2010
+Reasons: height requirement not met
+--------------------------------------------------------------------
+
